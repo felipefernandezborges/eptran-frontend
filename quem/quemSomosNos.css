@@ -1,0 +1,29 @@
+#content {
+    margin-top: 96px;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.white{
+    background-color: #fafafa;
+    margin: 0;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.gray{
+    background-color: #f0f0f0;
+    padding-top: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 20px;
+}
+.inside{
+    display: flex;
+    justify-content: space-between;
+}
+
+.insider{
+    margin-left: 40px;
+}
+.insider h2{
+    color: rgb(216, 48, 48);
+}
